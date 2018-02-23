@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="123" ToolsVersion="14.0">
+  <Include Path="allrules.ruleset" Action="Default" />
+  <Include Path="basiccorrectnessrules.ruleset" Action="Default" />
+  <Include Path="basicdesignguidelinerules.ruleset" Action="Default" />
+  <Include Path="extendedcorrectnessrules.ruleset" Action="Default" />
+  <Include Path="extendeddesignguidelinerules.ruleset" Action="Default" />
+  <Include Path="globalizationrules.ruleset" Action="Default" />
+  <Include Path="managedminimumrules.ruleset" Action="Default" />
+  <Include Path="minimumrecommendedrules.ruleset" Action="Default" />
+  <Include Path="mixedminimumrules.ruleset" Action="Default" />
+  <Include Path="mixedrecommendedrules.ruleset" Action="Default" />
+  <Include Path="securityrules.ruleset" Action="Default" />
+</RuleSet>

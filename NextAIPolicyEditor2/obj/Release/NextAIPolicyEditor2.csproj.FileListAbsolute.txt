@@ -1,0 +1,49 @@
+U:\NextAIPolicyEditor2\NextAIPolicyEditor2\bin\Release\NextAIPolicyEditor2.exe
+U:\NextAIPolicyEditor2\NextAIPolicyEditor2\bin\Release\NextAIPolicyEditor2.pdb
+U:\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.Form1.resources
+U:\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.Properties.Resources.resources
+U:\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.csproj.GenerateResource.Cache
+U:\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.exe
+U:\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.pdb
+U:\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.ConditionWin.resources
+U:\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.csprojResolveAssemblyReference.cache
+C:\Users\kn1fe\Documents\Visual Studio 2015\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\bin\Release\NextAIPolicyEditor2.exe
+C:\Users\kn1fe\Documents\Visual Studio 2015\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\bin\Release\NextAIPolicyEditor2.pdb
+C:\Users\kn1fe\Documents\Visual Studio 2015\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.ConditionWin.resources
+C:\Users\kn1fe\Documents\Visual Studio 2015\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.Form1.resources
+C:\Users\kn1fe\Documents\Visual Studio 2015\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.Properties.Resources.resources
+C:\Users\kn1fe\Documents\Visual Studio 2015\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.SearchUI.resources
+C:\Users\kn1fe\Documents\Visual Studio 2015\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.csproj.GenerateResource.Cache
+C:\Users\kn1fe\Documents\Visual Studio 2015\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.exe
+C:\Users\kn1fe\Documents\Visual Studio 2015\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.pdb
+C:\Users\kn1fe\Documents\Visual Studio 2015\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.csprojResolveAssemblyReference.cache
+C:\Users\kn1fe\Documents\Visual Studio 2015\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.ClassMaskGenerator.resources
+C:\Users\kn1fe\Documents\Visual Studio 2017\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\bin\Release\NextAIPolicyEditor2.exe
+C:\Users\kn1fe\Documents\Visual Studio 2017\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\bin\Release\NextAIPolicyEditor2.pdb
+C:\Users\kn1fe\Documents\Visual Studio 2017\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.csprojResolveAssemblyReference.cache
+C:\Users\kn1fe\Documents\Visual Studio 2017\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.ClassMaskGenerator.resources
+C:\Users\kn1fe\Documents\Visual Studio 2017\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.ConditionWin.resources
+C:\Users\kn1fe\Documents\Visual Studio 2017\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.Properties.Resources.resources
+C:\Users\kn1fe\Documents\Visual Studio 2017\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.SearchUI.resources
+C:\Users\kn1fe\Documents\Visual Studio 2017\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.csproj.GenerateResource.Cache
+C:\Users\kn1fe\Documents\Visual Studio 2017\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.exe
+C:\Users\kn1fe\Documents\Visual Studio 2017\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.pdb
+C:\Users\kn1fe\Documents\Visual Studio 2017\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\bin\Release\NextAIPolicyEditor2.exe.config
+C:\Users\kn1fe\Documents\Visual Studio 2017\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\bin\Release\System.ValueTuple.dll
+C:\Users\kn1fe\Desktop\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.ClassMaskGenerator.resources
+C:\Users\kn1fe\Desktop\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.ConditionWin.resources
+C:\Users\kn1fe\Desktop\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.Form1.resources
+C:\Users\kn1fe\Desktop\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.Properties.Resources.resources
+C:\Users\kn1fe\Desktop\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.SearchUI.resources
+C:\Users\kn1fe\Desktop\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.csproj.GenerateResource.Cache
+C:\Users\kn1fe\Desktop\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.exe
+C:\Users\kn1fe\Desktop\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.pdb
+C:\Users\kn1fe\Desktop\NextAIPolicyEditor2\NextAIPolicyEditor2\bin\Release\NextAIPolicyEditor2.exe.config
+C:\Users\kn1fe\Desktop\NextAIPolicyEditor2\NextAIPolicyEditor2\bin\Release\NextAIPolicyEditor2.exe
+C:\Users\kn1fe\Desktop\NextAIPolicyEditor2\NextAIPolicyEditor2\bin\Release\NextAIPolicyEditor2.pdb
+C:\Users\kn1fe\Desktop\NextAIPolicyEditor2\NextAIPolicyEditor2\bin\Release\System.ValueTuple.dll
+C:\Users\kn1fe\Desktop\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.csprojResolveAssemblyReference.cache
+C:\Users\kn1fe\Documents\Visual Studio 2017\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\bin\Release\MetroFramework.Design.dll
+C:\Users\kn1fe\Documents\Visual Studio 2017\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\bin\Release\MetroFramework.dll
+C:\Users\kn1fe\Documents\Visual Studio 2017\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\bin\Release\MetroFramework.Fonts.dll
+C:\Users\kn1fe\Documents\Visual Studio 2017\Projects\NextAIPolicyEditor2\NextAIPolicyEditor2\obj\Release\NextAIPolicyEditor2.MainForm.resources
